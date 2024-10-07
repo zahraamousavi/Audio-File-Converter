@@ -1,0 +1,7 @@
+ar,ac,acodec
+8000,1,pcm_s16le
+8000,1,pcm_u8
+16000,1,pcm_s16le
+16000,1,pcm_u8
+22050,1,pcm_s16le
+22050,1,pcm_u8

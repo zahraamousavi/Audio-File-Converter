@@ -1,0 +1,9 @@
+ar,ac,acodec
+22050,1,pcm_s16le
+22050,1,pcm_u8
+22050,2,pcm_s16le
+22050,2,pcm_u8
+44100,1,pcm_s16le
+44100,1,pcm_u8
+44100,2,pcm_s16le
+44100,2,pcm_u8
